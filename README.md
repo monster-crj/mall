@@ -1,4 +1,3 @@
-# vue-mall
+# VueMall项目在线演示
 
-- 基于vue2+vue-router+vue-x+axios的商城网站
-- 预览地址：https://monster-crj.github.io/vue-mall/
+- 在线演示地址：https://monster-crj.github.io/mall/
